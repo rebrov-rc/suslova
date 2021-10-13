@@ -21,3 +21,5 @@ LanQService (
     Examples: с разворотами
     Feedback Form
 )
+
+> React, Redux, Router, Axios, Sass, TypeScript, Node-Express.
