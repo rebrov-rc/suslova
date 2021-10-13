@@ -15,7 +15,7 @@ LanQService (
    • For Education
    • Busness Talking
    • Trip & Adventures
-    Elementary Intermadiet Advansed Profit
+    Elementary Intermadiet Advansed.
 
      Slider guide 😃
     Examples: с разворотами
